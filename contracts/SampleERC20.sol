@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-pragma solidity ^0.5.9;
+pragma solidity ^0.8.4;
 
 import "@0x/contracts-erc20/contracts/src/ERC20Token.sol";
 
